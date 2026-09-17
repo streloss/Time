@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#0E0E0E" stroke="#2E2E2E" stroke-width="4"/>
+  <!-- Clock ticks / subtle dial -->
+  <circle cx="50" cy="50" r="38" stroke="#222222" stroke-width="2" stroke-dasharray="2 6"/>
+  <!-- Minimalist time hands forming play angle -->
+  <line x1="50" y1="50" x2="50" y2="24" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="50" y1="50" x2="68" y2="50" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <!-- Center focal dot -->
+  <circle cx="50" cy="50" r="4" fill="#FFFFFF"/>
+  <!-- Soundwave bar accents around bottom arc -->
+  <line x1="38" y1="72" x2="38" y2="62" stroke="#A0A0A0" stroke-width="3" stroke-linecap="round"/>
+  <line x1="46" y1="76" x2="46" y2="58" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="54" y1="76" x2="54" y2="60" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="62" y1="72" x2="62" y2="64" stroke="#A0A0A0" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "props": {
+    "pageProps": {}
+  },
+  "page": "/charts/overview/[country]",
+  "query": {},
+  "buildId": "pteArUJQQl1VRRWYkaZ6-",
+  "assetPrefix": "https://mrkt-web.scdn.co/charts-spotify-com",
+  "nextExport": true,
+  "autoExport": true,
+  "isFallback": false,
+  "scriptLoader": []
+}
